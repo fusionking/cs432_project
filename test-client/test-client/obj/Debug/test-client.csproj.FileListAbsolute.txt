@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\bin\Debug\test-client.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\bin\Debug\test-client.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\bin\Debug\test-client.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\obj\Debug\test-client.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\obj\Debug\test_client.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\obj\Debug\test_client.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\obj\Debug\test-client.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\obj\Debug\test-client.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\test-client\test-client\obj\Debug\test-client.pdb
